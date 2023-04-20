@@ -1,3 +1,4 @@
+![logo](https://github.com/NeelDe10/NeelDe10/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Neelanjaan De</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
